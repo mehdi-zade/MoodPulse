@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MoodPulse</string>
+    <string name="title_activity_main">MoodPulse</string>
+    <string name="package_name">com.moodpulse.app</string>
+    <string name="custom_url_scheme">com.moodpulse.app</string>
+</resources>
